@@ -1,3 +1,7 @@
+
+// Este componente muestra un contacto individual.
+// Incluye nombre, teléfono, correo, etiqueta y el botón de eliminar.
+
 export default function ContactoCard({ nombre, telefono, correo, etiqueta, onEliminar }) {
   return (
     <div className="bg-white shadow-sm border border-gray-200 rounded-2xl p-6 flex items-start justify-between">
@@ -36,4 +40,3 @@ export default function ContactoCard({ nombre, telefono, correo, etiqueta, onEli
     </div>
   );
 }
-

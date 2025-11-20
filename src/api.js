@@ -34,5 +34,3 @@ export async function eliminarContactoPorId(id) {
   // Devolvemos true indicando éxito
   return true;
 }
-
-
