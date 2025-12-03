@@ -1,25 +1,3 @@
 {
-  "contactos": [
-    {
-      "id": "ee81",
-      "nombre": "see",
-      "telefono": "344 22344 122",
-      "correo": "jose344@outlook.es",
-      "etiqueta": "jefe"
-    },
-    {
-      "nombre": "oscar",
-      "telefono": "344 22344 444",
-      "correo": "rower234@gmaill",
-      "etiqueta": "administrador",
-      "id": "bb20"
-    },
-    {
-      "id": "4217",
-      "nombre": "pedro ",
-      "telefono": "344 22344 122",
-      "correo": "jueil@gmail.es",
-      "etiqueta": "empleado"
-    }
-  ]
+  "contactos": []
 }

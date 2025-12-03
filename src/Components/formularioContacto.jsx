@@ -188,7 +188,7 @@ function FormularioContacto({
           Teléfono *
         </label>
         <input
-          className="w-full rounded-xl border-gray-300 focus:ring-purple-500 focus:border-purple-500"
+          className="w-full rounded- color to-black color border-l-gray-700"
           name="telefono"
           placeholder="Ej: 300 123 4567"
           value={form.telefono}
@@ -205,7 +205,7 @@ function FormularioContacto({
           Correo *
         </label>
         <input
-          className="w-full rounded-xl border-gray-300 focus:ring-purple-500 focus:border-purple-500"
+          className="w-full rounded-xl color color to-black color border-l-neutral-800:"
           name="correo"
           placeholder="Ej: camila@sena.edu.co"
           value={form.correo}
@@ -222,7 +222,7 @@ function FormularioContacto({
           Etiqueta (opcional)
         </label>
         <input
-          className="w-full rounded-xl border-gray-300 focus:ring-purple-500 focus:border-purple-500"
+          className="w-full rounded-xl color to-black color border-slate-800 color bg-red-800"
           name="etiqueta"
           placeholder="Ej: Trabajo"
           value={form.etiqueta}
@@ -236,9 +236,11 @@ function FormularioContacto({
         <button
           type="submit"
           disabled={enviando}
-          className="w-full md:w-auto bg-purple-600 hover:bg-purple-700
-                     disabled:bg-purple-300 disabled:cursor-not-allowed
-                     text-white px-6 py-3 rounded-xl font-semibold shadow-sm"
+          className="w-full bg-black border border-gray-600 
+hover:bg-gray-800
+disabled:bg-gray-400 disabled:cursor-not-allowed
+text-white px-6 py-3 rounded-xl font-semibold shadow-sm
+"
         >
           {enviando ? "Guardando..." : textoBotonPrincipal}
         </button>
