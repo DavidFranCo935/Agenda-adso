@@ -2,7 +2,7 @@
 // Este archivo centraliza configuraciones reutilizables de la Agenda ADSO.
 
 // URL base del backend de Agenda ADSO desplegado en Render.
-export const API_BASE_URL = "http://localhost:3000/contactos";
+export const API_BASE_URL = "https://agenda-adso-api-96x6.onrender.com/contactos";
 
 // Información general de la aplicación que se utilizará en App.jsx
 export const APP_INFO = {
