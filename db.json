@@ -1,3 +1,32 @@
 {
-  "contactos": []
+  "contactos": [
+    {
+      "id": "774b",
+      "nombre": "juan camilo",
+      "telefono": "344 22344 122",
+      "correo": "jose344@outlook.es",
+      "etiqueta": "empleado"
+    },
+    {
+      "id": "09ef",
+      "nombre": "pedro ",
+      "telefono": "344 22344 122",
+      "correo": "jose344@outlook.es",
+      "etiqueta": "jefe"
+    },
+    {
+      "id": "087e",
+      "nombre": "frank ",
+      "telefono": "344 22344 122",
+      "correo": "wbgdu234@gmailk",
+      "etiqueta": "empleado"
+    },
+    {
+      "id": "430d",
+      "nombre": "brandon",
+      "telefono": "2234 2234 223",
+      "correo": "asaDoutlook@.es",
+      "etiqueta": "jefe"
+    }
+  ]
 }
