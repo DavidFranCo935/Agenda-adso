@@ -6,7 +6,7 @@ import {
   eliminarContactoPorId,
 } from "./api";
 import { APP_INFO } from "./config";
-import FormularioContacto from "./components/FormularioContacto";
+import FormularioContacto from "./Components/FormularioContacto";
 import ContactoCard from "./components/ContactoCard";
 
 function App() {
