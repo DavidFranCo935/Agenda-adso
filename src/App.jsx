@@ -6,8 +6,8 @@ import {
   eliminarContactoPorId,
 } from "./api";
 import { APP_INFO } from "./config";
-import FormularioContacto from "./Components/FormularioContacto";
-import ContactoCard from "./Components/ContactoCard";
+import FormularioContacto from "./Components/FormularioContacto.jsx";
+import ContactoCard from "./Components/ContactoCard.jsx";
 
 function App() {
   // Estado con todos los contactos obtenidos desde la API
