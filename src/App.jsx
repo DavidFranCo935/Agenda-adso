@@ -7,7 +7,7 @@ import {
 } from "./api";
 import { APP_INFO } from "./config";
 import FormularioContacto from "./Components/FormularioContacto";
-import ContactoCard from "./components/ContactoCard";
+import ContactoCard from "./Components/ContactoCard";
 
 function App() {
   // Estado con todos los contactos obtenidos desde la API
